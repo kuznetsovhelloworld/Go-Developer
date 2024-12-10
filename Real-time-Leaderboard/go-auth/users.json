@@ -1,14 +1,27 @@
 [
   {
     "username": "Nikita",
-    "password": "$2a$10$CfK2MClgRa7O4ogO377DB.WZ0ind.omUbXLIwa2mEXJAi/geEvYje"
+    "password": "$2a$10$CfK2MClgRa7O4ogO377DB.WZ0ind.omUbXLIwa2mEXJAi/geEvYje",
+    "last_login": "0001-01-01T00:00:00Z"
   },
   {
     "username": "Rodrigo",
-    "password": "$2a$10$Fjo9WezosReAaUIy8wHOu.MDNAz/9nDm.pBc0db2TZBYgUVc/2VdG"
+    "password": "$2a$10$Fjo9WezosReAaUIy8wHOu.MDNAz/9nDm.pBc0db2TZBYgUVc/2VdG",
+    "last_login": "0001-01-01T00:00:00Z"
   },
   {
     "username": "Rodney",
-    "password": "$2a$10$NWpMHO8elvPtZdIASMlmdek6Erm34eyd7JzE8NxXC102DKCGMqbMG"
+    "password": "$2a$10$NWpMHO8elvPtZdIASMlmdek6Erm34eyd7JzE8NxXC102DKCGMqbMG",
+    "last_login": "0001-01-01T00:00:00Z"
+  },
+  {
+    "username": "Rodney Martin",
+    "password": "$2a$10$MdxHuiZ7D8SnJjpe0koqe.lLGN7VU7yF0xLFW.nc.CpPxDME2T0V6",
+    "last_login": "0001-01-01T00:00:00Z"
+  },
+  {
+    "username": "Mykyta",
+    "password": "$2a$10$rMuGWTc5RZvfh2ouDJL.POgu4iKslRh807yM9YBOLh9sa1AYrqtG6",
+    "last_login": "2024-12-09T20:13:44.7911462-05:00"
   }
 ]
